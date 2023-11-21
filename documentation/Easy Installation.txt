@@ -1,0 +1,5 @@
+Online Documentation Link: https://osdocs.vercel.app/erp-os
+
+Local Installation Video Link: https://www.youtube.com/watch?v=RY-DDBoA47I
+
+Linux VPS Installation Video Link: https://www.youtube.com/watch?v=BGmtjRvIq_8

@@ -1,0 +1,9 @@
+.importCsvCard {
+  height: 100%;
+}
+
+.addSliderBtnContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+}
